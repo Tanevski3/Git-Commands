@@ -1,4 +1,4 @@
-# Git-Commands
+# Git Commands
 Git most useful commands
 
 ## Checkout origin branch
